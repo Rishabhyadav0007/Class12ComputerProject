@@ -8,3 +8,4 @@ AND my own python file imported as module (rrms.py)
 => code through which i access rrms.py 
 => import rrms 
 
+NOTE: main.py only works when rrms.py is present in your device.
