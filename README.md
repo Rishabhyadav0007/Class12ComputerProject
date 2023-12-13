@@ -6,4 +6,5 @@ Modules I used in this project are:
 mysql.connentor (a mysql and python connenctor)
 AND my own python file imported as module (rrms.py)
 => code through which i access rrms.py 
-=> import rrms
+=> import rrms 
+
